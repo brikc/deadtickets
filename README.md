@@ -8,6 +8,7 @@ stubhub.R - Script to pull ticket listing information from StubHub.com API.
 stubhub.Rout - Log file for daily batch job
 stubhub.bat - Batch job run six hour to collect listing data from March to July
 stubhub.zip - Contains the data files collected every six hours from March to July
-summary.txt - File containing summary ticket listing data from March to July
+summary.txt - File containing summary ticket listing data from March to July 
+
 
 
